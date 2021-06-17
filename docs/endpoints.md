@@ -28,7 +28,7 @@ PUT http://localhost:8080/v1/tables/{table}/spin
 ## Settle
 Move all bets to settled and find any winners.
 ```http request
-PUT http://localhost:8080/v1/tables/{table}/spin
+PUT http://localhost:8080/v1/tables/{table}/settle
 ```
 
 # Bet
