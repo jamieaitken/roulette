@@ -12,6 +12,8 @@ This will lint the codebase, create a binary and start the server.
 make execute
 ```
 
+Please find the available endpoints [here](./docs/endpoints.md)
+
 ## Design
 This project was designed with
 - [Twelve-Factor](https://12factor.net/) in mind
